@@ -1,0 +1,12 @@
+[
+    {
+        "id": 0,
+        "category": "Dogs",
+        "content": {
+            "id": 0,
+            "title": "Dog #1",
+            "image": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/DSC01603.JPG?alt=media&token=537ba385-269f-4751-9ecc-3be31dc7d423",
+            "description": "Very cute, smart, and playful!"
+        }
+    }
+]
