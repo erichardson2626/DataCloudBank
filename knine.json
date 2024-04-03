@@ -1,6 +1,6 @@
 [
     {
-    "id": 2,
+    "id": 0,
     "category": "Internet Dogs",
     "content": {
         "id": 0,
@@ -8,42 +8,476 @@
         "time": "Loyal",
         "cry": "Woof!",
         "lessons": [
-                {
-            "id": 0,
-            "title": "Aspen",
-            "age": "4 Months",
-            "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/Aspen.png?alt=media&token=50831426-9efe-4561-8ef5-61c804296058",
-            "photo": "aspenStand",
-            "breed": "Mixed Breed",
-            "explanation": "Aspen is a bundle of joy! Very Smart and playful"
-                },
-                {
-            "id": 1,
-            "title": "Pippa",
-            "age": "2 Years",
-            "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/IMG_9160.png?alt=media&token=8e6744e3-4496-4caa-a10c-cee034c14481",
-            "photo": "pippaStand",
-            "breed": "Mixed Breed",
-            "explanation": "Simple Explanation 1"
-                },
-                {
-            "id": 2,
-            "title": "Booleans",
-            "age": "2 Years",
-            "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/Aspen.png?alt=media&token=50831426-9efe-4561-8ef5-61c804296058",
-            "photo": "pippaStand",
-            "breed": "17 minutes",
-            "explanation": "Simple Explanation 2"
-                },
-                {
-            "id": 3,
-            "title": "Optionals",
-            "age": "2 Years",
-            "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/Aspen.png?alt=media&token=50831426-9efe-4561-8ef5-61c804296058",
-            "photo": "pippaStand",
-            "breed": "17 minutes",
-            "explanation": "Simple Explanation 3"
-                }
+            {
+                "id": 0,
+                "title": "Pansie",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Golden Retriever",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": "These sweet babies will be ready for adoption on 4/4. We expect them to be medium size full grown."
+            },
+            {
+                "id": 1,
+                "title": "Moose",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Schnauzer, Poodle, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Male, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 2,
+                "title": "Rosie",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Golden Retriever",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": "These sweet babies will be ready for adoption on 4/4. We expect them to be medium size full grown."
+            },
+            {
+                "id": 3,
+                "title": "Peanut",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Yorkshire Terrier",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Small",
+                "neutered": "",
+                "explanation": "View full description \u00bb"
+            },
+            {
+                "id": 4,
+                "title": "Daffodil",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Golden Retriever",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": "These sweet babies will be ready for adoption on 4/4. We expect them to be medium size full grown."
+            },
+            {
+                "id": 5,
+                "title": "Nutmeg",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Poodle, Bernese Mountain Dog, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Young, Female, Small",
+                "neutered": "",
+                "explanation": "View full description \u00bb"
+            },
+            {
+                "id": 6,
+                "title": "Lily",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Golden Retriever",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": "These sweet babies will be ready for adoption on 4/4. We expect them to be medium size full grown."
+            },
+            {
+                "id": 7,
+                "title": "Lady",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Yorkshire Terrier",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 8,
+                "title": "Mrs Patmore",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Shih Tzu",
+                "vaccine": "Vaccinations up to date",
+                "features": "Senior, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 9,
+                "title": "Hope",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Standard Poodle",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 10,
+                "title": "Eugene",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Poodle",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Male, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 11,
+                "title": "Sloan",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Poodle, Bernese Mountain Dog, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Young, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 12,
+                "title": "Nani",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Wheaten Terrier",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Medium",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 13,
+                "title": "Whiskey",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Siberian Husky",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Male, Medium",
+                "neutered": "",
+                "explanation": "Whiskey is a stunning 6 year old Husky. He lost his owner in a motorcycle accident."
+            },
+            {
+                "id": 14,
+                "title": "Winston",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Hound",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Male, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 15,
+                "title": "Polo (Jerry)",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71199864/1/?bust=1712115429&width=600",
+                "breed": "Border Collie",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Male, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 16,
+                "title": "Marco (Ben)",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71199865/1/?bust=1712115424&width=600",
+                "breed": "Border Collie",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Male, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 17,
+                "title": "Bullwinkle",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71196578/1/?bust=1712092022&width=600",
+                "breed": "Border Collie",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Male, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 18,
+                "title": "Rocky",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71196579/1/?bust=1712092073&width=600",
+                "breed": "Border Collie",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 19,
+                "title": "Margo",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Terrier",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Medium",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 20,
+                "title": "Nick",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Beagle, Hound, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Male, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 21,
+                "title": "Jessie",
+                "picture": "https://firebasestorage.googleapis.com/v0/b/quantumcloudbank.appspot.com/o/unavailable-image.jpg?alt=media&token=9a9b981a-f286-4fd7-9603-0be12b18f067",
+                "breed": "Beagle, Hound, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Male, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 22,
+                "title": "Petunia",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71194848/1/?bust=1712085690&width=600",
+                "breed": "Chihuahua, Terrier, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 23,
+                "title": "Schmidt",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71194851/1/?bust=1712085696&width=600",
+                "breed": "Beagle, Hound, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Male, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 24,
+                "title": "Margarita",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71194853/2/?bust=1712085701&width=600",
+                "breed": "Border Collie",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Medium",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 25,
+                "title": "CeCe",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71194852/1/?bust=1712085702&width=600",
+                "breed": "Beagle, Hound, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 26,
+                "title": "Sawyer",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71157494/1/?bust=1711922194&width=600",
+                "breed": "Shih Tzu",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Male, Small",
+                "neutered": "Spayed/Neutered",
+                "explanation": ""
+            },
+            {
+                "id": 27,
+                "title": "Stan",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71147514/1/?bust=1711392996&width=600",
+                "breed": "American Bulldog",
+                "vaccine": "Vaccinations up to date",
+                "features": "Young, Male, Medium",
+                "neutered": "",
+                "explanation": "Poor Stan was just abandoned. He kept trying to find his owner, until some nice people helped him out."
+            },
+            {
+                "id": 28,
+                "title": "Pipa",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71126837/1/?bust=1711393209&width=600",
+                "breed": "Hound",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 29,
+                "title": "Canela",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71126836/1/?bust=1711393259&width=600",
+                "breed": "Hound",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 30,
+                "title": "Sasha",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71126839/1/?bust=1711393157&width=600",
+                "breed": "Hound",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 31,
+                "title": "Griffin",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/71001482/1/?bust=1711922194&width=600",
+                "breed": "Poodle",
+                "vaccine": "Vaccinations up to date",
+                "features": "Young, Male, Medium",
+                "neutered": "Spayed/Neutered",
+                "explanation": ""
+            },
+            {
+                "id": 32,
+                "title": "Sofia",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70926343/1/?bust=1711922194&width=600",
+                "breed": "Border Collie",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Medium",
+                "neutered": "",
+                "explanation": "Sofia is pregnant!"
+            },
+            {
+                "id": 33,
+                "title": "Madison",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70911870/1/?bust=1711921422&width=600",
+                "breed": "Hound",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": "Madison is a super-loving and playful pup. According to her foster, she loves to be picked up!"
+            },
+            {
+                "id": 34,
+                "title": "Bear",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70911865/1/?bust=1711922037&width=600",
+                "breed": "Mixed Breed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Young, Male, Medium",
+                "neutered": "",
+                "explanation": "Hi! My name is Bear!!  I'm a fun loving pup who love to go on adventures with my foster humans!"
+            },
+            {
+                "id": 35,
+                "title": "Maya",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70911638/1/?bust=1711921727&width=600",
+                "breed": "Black Labrador Retriever",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": ""
+            },
+            {
+                "id": 36,
+                "title": "Mena",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70911639/1/?bust=1711922041&width=600",
+                "breed": "Mixed Breed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Young, Female, Medium",
+                "neutered": "",
+                "explanation": "Meet Mena! The mini Diva! Big personality packed into a little body! (25 pounds) always happy and loving life."
+            },
+            {
+                "id": 37,
+                "title": "Honeydew",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70901669/1/?bust=1711922228&width=600",
+                "breed": "Standard Poodle, Golden Retriever, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Medium",
+                "neutered": "",
+                "explanation": "Honeydew is as sweet as the melon she is named for! She is the sweetest soul looking for her people"
+            },
+            {
+                "id": 38,
+                "title": "Poppy",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70880470/1/?bust=1711922042&width=600",
+                "breed": "Shepherd, Cardigan Welsh Corgi, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Small",
+                "neutered": "",
+                "explanation": "Poppy is a sweet, 10 week old, suspected Shepherd Mix and weighs about 20 pounds. Her momma is about 50 pounds"
+            },
+            {
+                "id": 39,
+                "title": "Fiona",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70879318/1/?bust=1711922228&width=600",
+                "breed": "Shepherd",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Medium",
+                "neutered": "Spayed/Neutered",
+                "explanation": ""
+            },
+            {
+                "id": 40,
+                "title": "Regina",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70769281/1/?bust=1711921734&width=600",
+                "breed": "Shepherd, Chocolate Labrador Retriever, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Baby, Female, Medium",
+                "neutered": "",
+                "explanation": "Regina is such a perfect pup. Just look at those gorgeous eyes! She's playful, loves other animals, is crate-trained"
+            },
+            {
+                "id": 41,
+                "title": "Vera Wang",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70469547/1/?bust=1711922219&width=600",
+                "breed": "Border Collie",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Medium",
+                "neutered": "Spayed/Neutered",
+                "explanation": "Vera is looking for a patient, experienced dog lover to help her come out of her shell."
+            },
+            {
+                "id": 42,
+                "title": "Girly",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70346415/1/?bust=1711921423&width=600",
+                "breed": "Pit Bull Terrier, Shar-Pei, Mixed",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Medium",
+                "neutered": "Spayed/Neutered",
+                "explanation": ""
+            },
+            {
+                "id": 43,
+                "title": "Winter",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70296589/1/?bust=1711922223&width=600",
+                "breed": "Australian Cattle Dog / Blue Heeler",
+                "vaccine": "Vaccinations up to date",
+                "features": "Young, Female, Medium",
+                "neutered": "",
+                "explanation": "Winter is a kid-friendly dog that absolutely loves snuggles. She prefers to be with her people."
+            },
+            {
+                "id": 44,
+                "title": "Lola",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70263059/1/?bust=1711922040&width=600",
+                "breed": "Labrador Retriever",
+                "vaccine": "Vaccinations up to date",
+                "features": "Young, Female, Medium",
+                "neutered": "Spayed/Neutered",
+                "explanation": "Lola is a super sweet, 7 month old, lab mix. She's a bit apprehensive of people at first but warms up quickly"
+            },
+            {
+                "id": 45,
+                "title": "Zilla",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/70240422/1/?bust=1711922042&width=600",
+                "breed": "Beagle",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Female, Small",
+                "neutered": "Spayed/Neutered",
+                "explanation": "Zilla is a snuggly, smart, energetic, fun-loving 1.5 year old dog. She's a 40 lb suspected black lab"
+            },
+            {
+                "id": 46,
+                "title": "Skip",
+                "picture": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/68732325/1/?bust=1711922035&width=600",
+                "breed": "Chihuahua",
+                "vaccine": "Vaccinations up to date",
+                "features": "Adult, Male, Small",
+                "neutered": "",
+                "explanation": "Skip is great with other dogs. He is 10 lbs and 3 years old. Once he feels safe, he's happy"
+            }
             ]
         }
     }
